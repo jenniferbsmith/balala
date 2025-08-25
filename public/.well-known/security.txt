@@ -1,0 +1,16 @@
+Contact: security@text-behind-image.io
+Contact: https://text-behind-image.io/contact
+Expires: 2025-12-31T23:59:59.000Z
+Acknowledgments: https://text-behind-image.io/security-acknowledgments
+Preferred-Languages: en, es, fr
+Canonical: https://text-behind-image.io/.well-known/security.txt
+Policy: https://text-behind-image.io/security-policy
+
+# Text Behind Image Security Policy
+# We take security seriously and appreciate responsible disclosure
+# of security vulnerabilities. Please report any security issues
+# through the channels listed above.
+
+# Our Bug Bounty Program
+# We offer recognition and rewards for security researchers who
+# help us maintain the security of our platform and protect our users.
