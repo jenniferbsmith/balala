@@ -42,7 +42,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: []
       }
     ],
-    sitemap: `${seoConfig.siteUrl}/sitemap.xml`,
-    host: seoConfig.siteUrl
+    sitemap: `${seoConfig.siteUrl}/sitemap.xml`
   };
 }
